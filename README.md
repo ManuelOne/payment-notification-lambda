@@ -71,6 +71,10 @@ Through this project, I learned:
 * CloudWatch logging and monitoring
 * Serverless application development
 
+## 🔗 API Endpoint
+
+Production API: https://1d4fg23413.execute-api.us-east-1.amazonaws.com/prod/payments
+
 ## Author
 
 Manuel
